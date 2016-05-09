@@ -29,7 +29,17 @@
 				<category android:name="android.intent.category.DEFAULT" />
 			</intent-filter>
 		</activity>
+		
+		<activity
+			android:name=".lightrandom"
+			android:label="Nature of Tesla(random)" >
+			<intent-filter>
+				<action android:name="org.omnirom.DaylightHeaderPack1" />
 
+				<category android:name="android.intent.category.DEFAULT" />
+			</intent-filter>
+		</activity>			
+		
 		<activity
 			android:name=".poly"
 			android:label="Poly" >
