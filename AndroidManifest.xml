@@ -39,7 +39,17 @@
 				<category android:name="android.intent.category.DEFAULT" />
 			</intent-filter>
 		</activity>			
-		
+
+                <activity
+			android:name=".supernova"
+			android:label="Supernova (Single)" >
+			<intent-filter>
+				<action android:name="org.omnirom.DaylightHeaderPack1" />
+
+				<category android:name="android.intent.category.DEFAULT" />
+			</intent-filter>
+		</activity>
+
 		<activity
 			android:name=".poly"
 			android:label="Poly" >
