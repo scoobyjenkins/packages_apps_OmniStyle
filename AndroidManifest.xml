@@ -22,7 +22,7 @@
 
 		<activity
 			android:name=".nature"
-			android:label="Nature" >
+			android:label="Beer gardens (pack)" >
 			<intent-filter>
 				<action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -32,7 +32,7 @@
 		
 		<activity
 			android:name=".lightrandom"
-			android:label="Nature of Tesla(random)" >
+			android:label="Tavern (pack)" >
 			<intent-filter>
 				<action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -42,7 +42,7 @@
 
                 <activity
 			android:name=".supernova"
-			android:label="Supernova (Single)" >
+			android:label="SuperFrunk (pack)" >
 			<intent-filter>
 				<action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -52,7 +52,7 @@
 
 		<activity
 			android:name=".poly"
-			android:label="Poly" >
+			android:label="Poly (pack)" >
 			<intent-filter>
 				<action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -62,7 +62,7 @@
 
 		<activity
 			android:name=".naturerandom"
-			android:label="Nature (random)" >
+			android:label="Tipsy (pack) " >
 			<intent-filter>
 				<action android:name="org.omnirom.DaylightHeaderPack1" />
 
