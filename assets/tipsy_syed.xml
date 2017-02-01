@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <daylight_headers>
-        <random_header image="tipsy_1" />
+	<meta_data creator="Syed Sajid" />
+	<random_header image="tipsy_1" />
 	<random_header image="tipsy_2" />
 	<random_header image="tipsy_3" />
 	<random_header image="tipsy_4" />

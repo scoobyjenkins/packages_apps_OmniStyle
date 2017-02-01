@@ -20,7 +20,8 @@ entry can only be only one of hour or day/month type
 day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
-    <random_header image="tipsy_pete_1" />
+	<meta_data creator="Pete Best" />
+	<random_header image="tipsy_pete_1" />
 	<random_header image="tipsy_pete_2" />
 	<random_header image="tipsy_pete_3" />
 	<random_header image="tipsy_pete_4" />
